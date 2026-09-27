@@ -109,7 +109,7 @@ A backend application for managing event creation, user registration and event-r
 
 🔗 [View Project](https://github.com/gonamnaveen-del/Event-Registration-Platform)
 
-### 📈 HDI Prediction System
+### 📊 A Comprehensive Measure of Well-Being
 
 **Python | Machine Learning | Flask | MySQL | Pandas | NumPy**
 
@@ -119,10 +119,6 @@ A Machine Learning application that predicts **Human Development Index (HDI)** u
 - Applied Machine Learning techniques for prediction.
 - Integrated the trained model with Flask.
 - Used MySQL to manage application data.
-
-### 📊 A Comprehensive Measure of Well-Being
-
-A data-driven Machine Learning project focused on analyzing and predicting well-being using relevant data.
 
 🔗 [View Project](https://github.com/gonamnaveen-del/A-Comprehensive-Measure-of-Well-Being)
 
